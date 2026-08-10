@@ -1,0 +1,11 @@
+{
+  "browser": "Google Chrome",
+  "browserVersion": "157.0.8103.38",
+  "graphicsBackend": "WebGPU",
+  "adapter": "SwiftShader",
+  "platform": "Ubuntu 26.04.1 LTS (WSL)",
+  "buildConfiguration": "Debug",
+  "width": 512,
+  "height": 512,
+  "manifest": "DiligentFX/Tests/RadientRenderTest/assets/RadientRenderTests.json"
+}
